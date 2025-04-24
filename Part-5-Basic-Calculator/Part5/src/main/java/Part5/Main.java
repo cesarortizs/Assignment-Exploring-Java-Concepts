@@ -55,7 +55,6 @@ public class Main {
         System.out.println("\nSelect an option for your current result");
         System.out.println("Increment");
         System.out.println("Decrement");
-        System.out.println("None");
 
         System.out.print("\nWrite your choice: ");
         operation = input.nextLine();
